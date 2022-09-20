@@ -1,0 +1,52 @@
+
+.about_header{
+    margin-top: 60%;
+    padding-bottom: 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+
+}
+
+
+.about_container{
+    text-align: center;
+    position: relative;
+    font-size: large;
+}
+
+
+
+/* ==================== media queries (Medium devices) ========== */
+
+@media screen and (max-width: 1024px){
+    .about_header{
+        margin-top: 140%;
+
+    
+    }
+
+    .about_container{
+
+        font-size: medium;
+    
+    }
+}
+
+
+
+/* ==================== media queries (small devices) ========== */
+
+@media screen and (max-width: 600px){
+    .about_header{
+        margin-top: 620%;
+    
+    }
+
+    .about_container{
+
+        font-size: small;
+    
+    }
+}
+
