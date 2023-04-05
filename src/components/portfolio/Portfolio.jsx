@@ -17,17 +17,10 @@ const data = [
     demo: 'https://youtube.com'
   },
   {
-    id: 2,
-    image: IMG2,
-    title: 'Candy Crush Clone : C++|FLTK',
-    github: 'https://github.com/harsdua/RhombusCrush',
-    demo: 'https://youtube.com'
-  },
-  {
     id: 3,
     image: IMG3,
-    title: 'Quoridor : C++|SQLite|Qt5',
-    github: 'https://github.com/harsdua/Quoridor',
+    title: 'StudyBuddy: Java|JavaFX|SQLITE',
+    github: 'https://github.com/harsdua/studybuddy',
     demo: 'https://youtube.com'
   },
   {
@@ -35,7 +28,13 @@ const data = [
     image: IMG4,
     title: 'Coloring k-degenerate Graphs in Linear Time with k colors : Java',
     github: 'https://github.com/harsdua/degen-coloring',
-
+    demo: 'https://youtube.com'
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: 'Candy Crush Clone : C++|FLTK',
+    github: 'https://github.com/harsdua/RhombusCrush',
     demo: 'https://youtube.com'
   },
   {
@@ -43,7 +42,6 @@ const data = [
     image: IMG5,
     title: 'Image compressor : Bash',
     github: 'https://github.com/harsdua/image-compressor',
-
     demo: 'https://youtube.com'
   },
   {
